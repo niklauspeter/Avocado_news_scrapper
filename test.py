@@ -5,7 +5,7 @@ SCOPES = ['https://www.googleapis.com/auth/spreadsheets',
 'https://www.googleapis.com/auth/drive']
 
 # Load credentials from the downloaded JSON file
-credentials = Credentials.from_service_account_file('avocado-web-scrapper-4408c53fe3a9.json', scopes=SCOPES)
+credentials = Credentials.from_service_account_file('credentials.json', scopes=SCOPES)
 
 # Authorize the gspread client
 client = gspread.authorize(credentials)
