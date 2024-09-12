@@ -87,7 +87,7 @@ def save_to_google_sheets(news_data):
         sheet.append_row([date, title, author, content, summary, url])
         print(f"Saved article: {title}")  # Debugging line
 
-def search_news(query='farming africa'):
+def search_news(query='avocado africa'):
     """Fetches and summarizes news articles, then saves them to Google Sheets."""
     articles = fetch_news(query)
     print(f"Fetched {len(articles)} articles")  # Debugging line
