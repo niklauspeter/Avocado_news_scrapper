@@ -1,6 +1,6 @@
 # Avocado News Scraper
 
-Avocado News Scraper is a Python application that fetches news articles from the NewsAPI based on specific queries, summarizes them using a natural language processing model, and saves the results to a Google Sheets document. This app is particularly useful for gathering up-to-date information on specific topics and storing them in a structured format for further analysis.
+Avocado News Scraper is a Python application that fetches news articles on avocados(or any query you hardcode) from the NewsAPI based on specific queries, summarizes them using a natural language processing model, and saves the results to a Google Sheets document. This app is particularly useful for gathering up-to-date information on specific topics and storing them in a structured format for further analysis.
 
 ## Features
 
