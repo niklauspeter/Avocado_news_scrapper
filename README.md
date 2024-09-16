@@ -107,5 +107,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Usage**: Shows how to run the script and change the query parameters.
 - **Contributing**: Encourages contributions and provides basic guidelines.
 - **Acknowledgments**: Credits the main technologies and services used in the app.
-
-Feel free to modify the content as needed to fit your specific project requirements.
